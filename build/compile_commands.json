@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/a/etc_proj/build",
+  "command": "/usr/bin/g++  -I/home/a/etc_proj/my_string/my_string -g -std=gnu++17 -o CMakeFiles/my_string.dir/my_string.cpp.o -c /home/a/etc_proj/my_string/my_string.cpp",
+  "file": "/home/a/etc_proj/my_string/my_string.cpp"
+}
+]

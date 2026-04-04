@@ -1,0 +1,3 @@
+/home/a/etc_proj/build/CMakeFiles/my_string.dir
+/home/a/etc_proj/build/CMakeFiles/edit_cache.dir
+/home/a/etc_proj/build/CMakeFiles/rebuild_cache.dir
